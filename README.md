@@ -1,2 +1,2 @@
-# Building
-Collection of my short-cut building files
+# configs
+Collection of my configs short-cut building files
