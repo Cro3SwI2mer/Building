@@ -77,7 +77,7 @@ set shiftwidth=4
 set encoding=utf-8
 
 "Indents
-set noexpandtab
+set expandtab
 set smarttab
 set smartindent
 
